@@ -32,3 +32,4 @@ Tools used : JIRA, Google Lighthouse, Nimble capture, Excel.
 - Email : setiawanyogie09@gmail.com
 - LinkedIn : www.linkedin.com/in/yogiesetiawan
 
+- ~ Made with love by Yogie Setiawan ~
